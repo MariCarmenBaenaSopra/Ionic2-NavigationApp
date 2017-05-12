@@ -1,7 +1,7 @@
 # Ionic2-NavigationApp
 
 ## 1º- Download git:
-  $ git clone git@github.com:MariCarmenBaenaSopra/Ionic2-Angular2.git
+  $ git clone git@github.com:MariCarmenBaenaSopra/Ionic2-NavigationApp.git
 
 ## 2º- Access the container folder
 ## 3º- Install the project modules:
